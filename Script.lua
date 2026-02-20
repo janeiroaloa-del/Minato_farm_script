@@ -5,7 +5,7 @@ local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
 
 local player = Players.LocalPlayer
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua'))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/janeiroaloa-del/king-legacy-farm-minato/main/farm.lua"))()
 local Window = Library.CreateLib("Minato King Legacy Farm", "DarkTheme")
 
 -- Variáveis
