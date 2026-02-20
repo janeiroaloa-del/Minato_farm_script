@@ -1,1 +1,1 @@
-# Minato_farm_script
+# king legacy farm minato
